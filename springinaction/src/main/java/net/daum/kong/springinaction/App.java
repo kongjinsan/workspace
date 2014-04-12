@@ -24,5 +24,6 @@ public class App {
 		App demo = new App();
 		for (int i = 0; i < 10; i++)
 			System.out.println("hello world");
+		System.out.println("git test");
 	}
 }
